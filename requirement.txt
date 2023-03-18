@@ -1,0 +1,12 @@
+numba==0.53.1
+numpy==1.19.5
+pytorch-transformers==1.2.0
+torch==1.13.0+cu116
+torchaudio==0.13.0+cu116
+torchcam==0.3.2
+torchelastic==0.2.2
+torchinfo==1.5.3
+torchmetrics==0.11.0
+torchsummary==1.5.1
+torchtext==0.12.0
+torchvision==0.14.0+cu116
