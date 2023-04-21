@@ -1,4 +1,4 @@
-## Implementation of [*KaiMing He el.al. Masked Autoencoders Are Scalable Vision Learners*](https://arxiv.org/abs/2111.06377).
+## Implementation of [*Kaiming He el.al. Masked Autoencoders Are Scalable Vision Learners*](https://arxiv.org/abs/2111.06377).
 
 <div align="center">
 
